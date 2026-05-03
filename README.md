@@ -1,5 +1,5 @@
 # capstone-data-analytics
-##Capstone Project: Understanding Consumer Spending Depending on the State of the United States Economy
+## Capstone Project: Understanding Consumer Spending Depending on the State of the United States Economy
 
 ### Overview
 This project aims to analyze consumer spending and how it relates to economic indicators.
@@ -8,9 +8,9 @@ It also investigates consumer behavior depending on the state of the economy by 
 The project includes a report, Microsoft Power BI dashboard, and several python scripts used to accomplish these goals.
 
 ### Technologies Used
-Jupyter Notebook (Pandas)
-Microsoft Power BI
-Microsoft Word
+-Jupyter Notebook (Pandas)
+-Microsoft Power BI
+-Microsoft Word
 
 ### How to Reproduce Analysis
 1. Run the script "PCE_Category_Joining_and_Exporting.ipynb" ensuring the variable "folderpath" points to the appropriate folder containing the files found in "Raw_Data".
