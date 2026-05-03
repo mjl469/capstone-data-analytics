@@ -8,9 +8,9 @@ It also investigates consumer behavior depending on the state of the economy by 
 The project includes a report, Microsoft Power BI dashboard, and several python scripts used to accomplish these goals.
 
 ### Technologies Used
--Jupyter Notebook (Pandas)
--Microsoft Power BI
--Microsoft Word
+-Jupyter Notebook (Pandas)<br>
+-Microsoft Power BI<br>
+-Microsoft Word<br>
 
 ### How to Reproduce Analysis
 1. Run the script "PCE_Category_Joining_and_Exporting.ipynb" ensuring the variable "folderpath" points to the appropriate folder containing the files found in "Raw_Data".
@@ -20,40 +20,40 @@ The project includes a report, Microsoft Power BI dashboard, and several python 
 5. Follow the guide found in the "Power_BI" folder in this repository titled "Power_BI_Instructional_Report.pdf" establish connections to data for Power BI Dashboard properly.
 
 ### File Structure
-Data
-  Power_BI_Data
-    CCI_Predictions_True_Values.csv
-    Data.csv
-    Economic_Indicator_Evaluation_Table.csv
-    Economic_Indicator_Evaluation_Table_KPI_Targets.csv
-    GDP_Growth_Predictions_True_Values.csv
-    GDP_Growth_vs_CCI.csv
-  Raw_Data
-    Consumer_Confidence_Index_2022-2025.csv
-    Personal_Consumption_Expenditures_2022-2025.csv
-    Personal_Consumption_Expenditures_Durable_Goods_2022-2025.csv
-    Personal_Consumption_Expenditures_Food_2022-2025.csv
-    Personal_Consumption_Expenditures_Services_2022-2025.csv
-    Seasonal_GDP_Growth_2022-2025.csv
-  Transformed_Data
-    Correlations.csv
-    Data.csv
-    Model_Evaluation_Table.csv
-    PCE_Joined.csv
-    Summary_Statistics.csv
-Power_BI
-  Dashboard.pbix
-  Power_BI_Instructional_Report.pdf
-Report
-  Capstone_Project_Final_Report_Michael_Lawlor.docx
-  Capstone_Project_Final_Report_Michael_Lawlor.pdf
-Scripts
-  Exploratory_Data_Analysis.ipynb
-  Models.ipynb
-  PCE_Category_Joining_and_Exporting.ipynb
-README.md
+Data<br>
+  Power_BI_Data<br>
+    CCI_Predictions_True_Values.csv<br>
+    Data.csv<br>
+    Economic_Indicator_Evaluation_Table.csv<br>
+    Economic_Indicator_Evaluation_Table_KPI_Targets.csv<br>
+    GDP_Growth_Predictions_True_Values.csv<br>
+    GDP_Growth_vs_CCI.csv<br>
+  Raw_Data<br>
+    Consumer_Confidence_Index_2022-2025.csv<br>
+    Personal_Consumption_Expenditures_2022-2025.csv<br>
+    Personal_Consumption_Expenditures_Durable_Goods_2022-2025.csv<br>
+    Personal_Consumption_Expenditures_Food_2022-2025.csv<br>
+    Personal_Consumption_Expenditures_Services_2022-2025.csv<br>
+    Seasonal_GDP_Growth_2022-2025.csv<br>
+  Transformed_Data<br>
+    Correlations.csv<br>
+    Data.csv<br>
+    Model_Evaluation_Table.csv<br>
+    PCE_Joined.csv<br>
+    Summary_Statistics.csv<br>
+Power_BI<br>
+  Dashboard.pbix<br>
+  Power_BI_Instructional_Report.pdf<br>
+Report<br>
+  Capstone_Project_Final_Report_Michael_Lawlor.docx<br>
+  Capstone_Project_Final_Report_Michael_Lawlor.pdf<br>
+Scripts<br>
+  Exploratory_Data_Analysis.ipynb<br>
+  Models.ipynb<br>
+  PCE_Category_Joining_and_Exporting.ipynb<br>
+README.md<br>
 
 ### Author
-Michael Lawlor
-+1 (480) 262-9296
-mlawlor1699@gmail.com
+Michael Lawlor<br>
++1 (480) 262-9296<br>
+mlawlor1699@gmail.com<br>
