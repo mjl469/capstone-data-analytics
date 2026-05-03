@@ -21,36 +21,36 @@ The project includes a report, Microsoft Power BI dashboard, and several python 
 
 ### File Structure
 Data<br>
-  Power_BI_Data<br>
-    CCI_Predictions_True_Values.csv<br>
-    Data.csv<br>
-    Economic_Indicator_Evaluation_Table.csv<br>
-    Economic_Indicator_Evaluation_Table_KPI_Targets.csv<br>
-    GDP_Growth_Predictions_True_Values.csv<br>
-    GDP_Growth_vs_CCI.csv<br>
-  Raw_Data<br>
-    Consumer_Confidence_Index_2022-2025.csv<br>
-    Personal_Consumption_Expenditures_2022-2025.csv<br>
-    Personal_Consumption_Expenditures_Durable_Goods_2022-2025.csv<br>
-    Personal_Consumption_Expenditures_Food_2022-2025.csv<br>
-    Personal_Consumption_Expenditures_Services_2022-2025.csv<br>
-    Seasonal_GDP_Growth_2022-2025.csv<br>
-  Transformed_Data<br>
-    Correlations.csv<br>
-    Data.csv<br>
-    Model_Evaluation_Table.csv<br>
-    PCE_Joined.csv<br>
-    Summary_Statistics.csv<br>
+  -Power_BI_Data<br>
+    --CCI_Predictions_True_Values.csv<br>
+    --Data.csv<br>
+    --Economic_Indicator_Evaluation_Table.csv<br>
+    --Economic_Indicator_Evaluation_Table_KPI_Targets.csv<br>
+    --GDP_Growth_Predictions_True_Values.csv<br>
+    --GDP_Growth_vs_CCI.csv<br>
+  -Raw_Data<br>
+    --Consumer_Confidence_Index_2022-2025.csv<br>
+    --Personal_Consumption_Expenditures_2022-2025.csv<br>
+    --Personal_Consumption_Expenditures_Durable_Goods_2022-2025.csv<br>
+    --Personal_Consumption_Expenditures_Food_2022-2025.csv<br>
+    --Personal_Consumption_Expenditures_Services_2022-2025.csv<br>
+    --Seasonal_GDP_Growth_2022-2025.csv<br>
+  -Transformed_Data<br>
+    --Correlations.csv<br>
+    --Data.csv<br>
+    --Model_Evaluation_Table.csv<br>
+    --PCE_Joined.csv<br>
+    --Summary_Statistics.csv<br>
 Power_BI<br>
-  Dashboard.pbix<br>
-  Power_BI_Instructional_Report.pdf<br>
+  -Dashboard.pbix<br>
+  -Power_BI_Instructional_Report.pdf<br>
 Report<br>
-  Capstone_Project_Final_Report_Michael_Lawlor.docx<br>
-  Capstone_Project_Final_Report_Michael_Lawlor.pdf<br>
+  -Capstone_Project_Final_Report_Michael_Lawlor.docx<br>
+  -Capstone_Project_Final_Report_Michael_Lawlor.pdf<br>
 Scripts<br>
-  Exploratory_Data_Analysis.ipynb<br>
-  Models.ipynb<br>
-  PCE_Category_Joining_and_Exporting.ipynb<br>
+  -Exploratory_Data_Analysis.ipynb<br>
+  -Models.ipynb<br>
+  -PCE_Category_Joining_and_Exporting.ipynb<br>
 README.md<br>
 
 ### Author
