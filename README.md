@@ -19,8 +19,8 @@ The project includes a report, Microsoft Power BI dashboard, and several python 
 4. Run the script "Models.ipynb" ensuring the variable "folderpath" points to the appropriate folder containing the data.
 5. Follow the guide found in the "Power_BI" folder in this repository titled "Power_BI_Instructional_Report.pdf" establish connections to data for Power BI Dashboard properly.
 
-<pre>
 ### File Structure
+<pre>
 Data<br>
   Power_BI_Data<br>
     CCI_Predictions_True_Values.csv<br>
